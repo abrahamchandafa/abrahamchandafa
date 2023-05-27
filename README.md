@@ -1,3 +1,4 @@
 # README.md
-- 👋Hi!, I'm AbrahamChandafa✨
+👋Hi there!
+- I'm AbrahamChandafa✨
 -
