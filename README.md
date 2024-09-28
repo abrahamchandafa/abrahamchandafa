@@ -6,7 +6,3 @@
 - I'm looking to collaborate on... ANYTHING!
 
 E-mail: abrahamchandafa@gmail.com  & abrahamchandafa@connect.hku.hk<br/>
-![](https://komarev.com/ghpvc/?username=abrahamchandafa)
-
-TECH STACK:
-
