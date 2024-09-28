@@ -1,5 +1,4 @@
 # README.md
-<h1 style="font-size"></h1>
 👋Hi there!
 - I'm Abraham✨
 - I'm interested in... Game developing/AI/ML/Software Development
@@ -8,3 +7,6 @@
 
 E-mail: abrahamchandafa@gmail.com  & abrahamchandafa@connect.hku.hk<br/>
 ![](https://komarev.com/ghpvc/?username=abrahamchandafa)
+
+TECH STACK:
+
