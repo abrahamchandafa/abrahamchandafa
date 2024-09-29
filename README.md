@@ -21,11 +21,9 @@ E-mail: abrahamchandafa@gmail.com  & abrahamchandafa@connect.hku.hk<br/>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
- <div>
-<p><img float="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahamchandafa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" height="180em" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahamchandafa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" height="180em" /></p>
 
-<p>&nbsp;<img float="right" src="https://github-readme-stats.vercel.app/api?username=abrahamchandafa&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" height="180em"/></p>
-</div>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abrahamchandafa&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" height="180em"/></p>
 <br><br><br><br>
 <p align="center">
   <img height="180em"src="https://github-readme-streak-stats.herokuapp.com/?user=abrahamchandafa&theme=chartreuse-dark&hide_border=true"/>
