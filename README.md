@@ -2,9 +2,7 @@
 <h1 align="center"><b>Hi there!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 - I'm Abraham✨
-- <a href="https://abrahamchandafa.github.io/"> Website</a>
-- I'm interested in... AI/ML/Software Development
-- I'm looking to collaborate on... ANYTHING!
+- <a href="https://abrahamchandafa.github.io/">My Portfolio...</a>
 
 E-mail: abrahamchandafa@gmail.com  & abrahamchandafa@connect.hku.hk<br/>
 
