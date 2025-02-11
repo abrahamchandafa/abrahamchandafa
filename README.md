@@ -27,7 +27,7 @@ E-mail: abrahamchandafa@gmail.com  & abrahamchandafa@connect.hku.hk<br/>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abrahamchandafa&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="411" height="181em"/></p>
 <br><br><br><br>
 <p align="center">
-  <img height="181em" src="https://github-readme-streak-stats.herokuapp.com/?user=abrahamchandafa&theme=chartreuse-dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abrahamchandafa&theme=chartreuse-dark&hide_border=true"/>
 </p>
 <br><br><br><br>
 
