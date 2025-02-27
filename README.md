@@ -20,13 +20,18 @@ E-mail: abrahamchandafa@gmail.com  & abrahamchandafa@connect.hku.hk<br/>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahamchandafa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" height="181em" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abrahamchandafa&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="411" height="181em"/></p>
-<br><br><br><br>
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abrahamchandafa&theme=chartreuse-dark&hide_border=true"/>
-</p>
+<div align=center> 
+  <h2>Contribution and Stats</h2>
+  <div>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=abrahamchandafa&theme=algolia&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=daily" alt="GitHub Streak" style="margin-top: 20px;"/>
+    </a>
+  </div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abrahamchandafa&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abrahamchandafa&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abrahamchandafa&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abrahamchandafa&theme=algolia">
+</div>
 <br><br><br><br>
 
 <hr>
