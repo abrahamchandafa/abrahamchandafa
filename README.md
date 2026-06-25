@@ -24,31 +24,6 @@ E-mail: abrahamchandafa@gmail.com  & abrahamchandafa@connect.hku.hk<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/>
 
 <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-
-<div align=center> 
-  <h2>Contribution and Stats</h2>
-  <div>
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=abrahamchandafa&theme=algolia&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=daily" alt="GitHub Streak" style="margin-top: 20px;"/>
-    </a>
-  </div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abrahamchandafa&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abrahamchandafa&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abrahamchandafa&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abrahamchandafa&theme=algolia">
-</div>
-<br><br><br><br>
-
-<hr>
-
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=abrahamchandafa&theme=juicyfresh&no-bg=true" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/>
-
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
